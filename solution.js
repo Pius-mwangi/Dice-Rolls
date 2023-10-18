@@ -11,7 +11,9 @@ function solution(A, F, M) {
   
     if (sumOfMissingRolls < F || sumOfMissingRolls > F * 6) {
       return [0];
+
     }
+    //not complete still working 
   
   }
   
